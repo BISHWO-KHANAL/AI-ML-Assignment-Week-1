@@ -1,2 +1,2 @@
-# AI-ML-Assignment-Week-1
-Intro to Python
+# Bishwo Khanal / AI-Bootcamp-2026
+AI/ML ASSIGNMENT WEEK-1
